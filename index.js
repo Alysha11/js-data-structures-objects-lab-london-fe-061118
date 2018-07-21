@@ -30,4 +30,9 @@ return newObj;
 
 }
 
+function destructivelyDeleteFromDriverByKey(driver, key) {
+  
+delete driver.name;
+return driver;
 
+}
