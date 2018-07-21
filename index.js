@@ -14,7 +14,7 @@ return newObj;
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value)
 {
   
- driver.key ="value"; 
+ driver.name ="Sam"; 
   
   
 }
