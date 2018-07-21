@@ -28,8 +28,6 @@ delete newObj.name;
 
 return newObj;
 
-  
-  
-  
-  
 }
+
+
